@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+proyecto-jacoco,com.tecsup.minishop.service,ProductService,5,27,1,1,1,7,1,4,0,4
+proyecto-jacoco,com.tecsup.minishop,MinishopApplication,7,0,0,0,3,0,2,0,2,0
+proyecto-jacoco,com.tecsup.minishop.controller,ProductController,0,15,0,0,0,5,0,3,0,3

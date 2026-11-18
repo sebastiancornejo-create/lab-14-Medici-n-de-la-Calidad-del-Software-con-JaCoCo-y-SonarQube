@@ -1,0 +1,9 @@
+<properties>
+    <!-- Tus propiedades existentes, por ejemplo: -->
+    <skipUTs>false</skipUTs>
+
+    <!-- Propiedades de SonarQube Cloud -->
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.organization>sebastiancornejo-create</sonar.organization>
+    <sonar.projectKey>sebastiancornejo-create_lab-14-Medici-n-de-la-Calidad-del-Software-con-JaCoCo-y-SonarQube</sonar.projectKey>
+</properties>
